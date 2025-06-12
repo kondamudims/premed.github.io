@@ -14,6 +14,6 @@ Hi, I’m Alex. I’m a high school student preparing for a future in medicine. 
     <li><a href="/projects.html">Projects</a></li>
     <li><a href="/blog.html">Blog</a></li>
     <li><a href="/donate.html">Donate</a></li>
-    <li><a href="/contact.html">Contact</a></li>
+    <li><a href="/contact.html">Contact Me</a></li>
   </ul>
 </nav>
